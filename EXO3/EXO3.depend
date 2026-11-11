@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1794413097 source:c:\users\cli\onedrive\desktop\tp17-c++\exo3\config.cpp
+	"Config.h"
+	<iostream>
+
+1794413097 c:\users\cli\onedrive\desktop\tp17-c++\exo3\config.h
+	<string>
+	<map>
+
+1794412800 source:c:\users\cli\onedrive\desktop\tp17-c++\exo3\logger.cpp
+	"Logger.h"
+	<iostream>
+
+1794412761 c:\users\cli\onedrive\desktop\tp17-c++\exo3\logger.h
+	<string>
+
